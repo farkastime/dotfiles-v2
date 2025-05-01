@@ -3,3 +3,10 @@
 [user]
 	email = timothy.farkas@gmail.com
 	name = Tim Farkas
+[core] 
+	excludesfile = $HOME/.gitignore_global
+	pager = cat
+[pull]
+	rebase = false
+[push]
+	autoSetupRemote = true
