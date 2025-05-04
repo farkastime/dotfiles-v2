@@ -12,6 +12,7 @@ brew "harfbuzz" # required for textshaping (R package)
 brew "htop"
 brew "jq"
 brew "node"
+brew "jandedobbeleer/oh-my-posh/oh-my-posh"
 brew "openapi-generator"
 brew "ponysay" # some silly bs
 # brew "powerlevel10k" # my zsh theme
