@@ -9,3 +9,6 @@ alias mcd='function _mcd(){ mkdir -p "$1"; cd "$1"; };_mcd'
 
 # python
 alias python="python3"
+
+# git
+alias gcam="git commit -am"
