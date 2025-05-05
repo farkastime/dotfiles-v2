@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 snap install slack
-snap install tmux --classic
-sudo snap install code --classic
+snap install code --classic
 
 

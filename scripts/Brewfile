@@ -12,6 +12,7 @@ brew "harfbuzz" # required for textshaping (R package)
 brew "htop"
 brew "jq"
 brew "node"
+brew "nvim"
 brew "jandedobbeleer/oh-my-posh/oh-my-posh"
 brew "openapi-generator"
 brew "ponysay" # some silly bs
@@ -29,6 +30,7 @@ brew "sqlite"
 brew "thefuck" # correct cli typos
 brew "tippecanoe" # vector tiles from geojson
 brew "tldr" # better man pages
+brew "tmux"
 brew "tree" # recursive ls 
 brew "udunits"
 brew "uv" # python dependency management in Rust
