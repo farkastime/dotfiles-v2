@@ -124,3 +124,7 @@ eval "$(oh-my-posh init bash --config $(brew --prefix oh-my-posh)/themes/powerle
 
 # thefuck init
 eval "$(thefuck --alias)"
+
+# vi mode
+set -o vi
+bind '"jk":vi-movement-mode'
