@@ -121,3 +121,6 @@ eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
 # use oh-my-posh
 eval "$(oh-my-posh init bash --config $(brew --prefix oh-my-posh)/themes/powerlevel10k_lean.omp.json)"
+
+# thefuck init
+eval "$(thefuck --alias)"
