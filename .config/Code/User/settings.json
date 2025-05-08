@@ -1,24 +1,10 @@
 {
-    // "[vscode-neovim]": {
-    //     "neovimExecutablePaths.linux": "/home/linuxbrew/.linuxbrew/bin/nvim",
-    //     "compositeKeys": {
-    //         "jk": {
-    //             "command": "vscode-neovim.escape",
-    //         },
-    //     },
-    // },
-    // "vscode-neovim.compositeKeys": {
-    //     "jk": {
-    //         "command": "vscode-neovim.escape",
-    //     },
-    // },
    "vim.insertModeKeyBindings": [
     {
       "before": ["j", "k"],
       "after": ["<Esc>", "l"]
     }
   ], 
-    "extensions.experimental.affinity": {
-        "asvetliakov.vscode-neovim": 1
-    }, 
+    "window.titleBarStyle": "native",
+    
 }

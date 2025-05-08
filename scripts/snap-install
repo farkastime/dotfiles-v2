@@ -2,5 +2,6 @@
 
 snap install slack
 snap install code --classic
+# snap install zoom-client # no, use the deb from the website
 
 

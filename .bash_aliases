@@ -12,3 +12,9 @@ alias python="python3"
 
 # git
 alias gcam="git commit -am"
+
+# utility replacements
+alias cat="bat"
+
+# aws cli
+alias asl="aws sso login"

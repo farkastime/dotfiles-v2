@@ -128,3 +128,9 @@ eval "$(thefuck --alias)"
 # vi mode
 set -o vi
 bind '"jk":vi-movement-mode'
+
+# direnv
+eval "$(direnv hook bash)"
+
+# add user to video group
+
