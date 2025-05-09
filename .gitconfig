@@ -4,7 +4,7 @@
 	email = timothy.farkas@gmail.com
 	name = Tim Farkas
 [core] 
-	excludesfile = $HOME/.gitignore_global
+	excludesFile = /home/farkastime/.gitignore_global
 	pager = cat
 [pull]
 	rebase = false
