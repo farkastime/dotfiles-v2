@@ -34,3 +34,6 @@ sudo dpkg -i ./protonvpn-stable-release_1.0.8_all.deb && sudo apt update
 sudo apt install proton-vpn-gnome-desktop
 # install tray
 sudo apt install libayatana-appindicator3-1 gir1.2-ayatanaappindicator3-0.1 gnome-shell-extension-appindicator
+
+#### Zoom ####
+https://zoom.us/client/6.4.6.1370/zoom_amd64.deb
