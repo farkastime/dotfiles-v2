@@ -67,7 +67,8 @@ brew "wget"
 # cask "zoom"
 
 # vscode extentions
-vscode "asvetliakov.vscode-neovim"
+# vscode "asvetliakov.vscode-neovim"
+vscode "vscodevim.vim"
 vscode "iterative.dvc"
 vscode "ms-azuretools.vscode-docker"
 vscode "ms-python.python"
